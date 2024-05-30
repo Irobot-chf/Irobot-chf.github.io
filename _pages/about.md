@@ -54,7 +54,7 @@ My research interest includes:
 - 2022.12, Haofeng Chen and Xuanxuan Yang participated in the 2022 IEEE ROBIO International Conference. [[Report]](http://www.bihfcas.net/xw/22.12.04.html)
 - 2023.10, Wang Xiaojie and Chen Haofeng participated in the 2023 16th China Conference on Intelligent Robots (CCIR). [[Reports]](http://www.bihfcas.net/xw/23.10.27.html)[[Related reports 1]](http://www.iamt.cas.cn/zxzx/gzdt/202311/t20231102_762488.html)[[Related reports 2]](http://www.iim.cas.cn/xwzx_2021/dtjx/202311/t20231102_762496.html)
 - 2023.05, Chen Haofeng participated in the 2024 IEEE International Conference on Robotics and Automation and gave an online oral report.
-- 2023.05.24, I passed my PhD defense🎉.
+- 2024.05.24, I passed my PhD defense🎉.
 
 # 📝 Publications 
 
