@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am about to graduate with my Ph.D. from the Science Island Graduate School of the University of Science and Technology of China in Hefei, Anhui. My supervisor is researcher Wang Xiaojie. Graduated from the School of Mechanical and Electrical Engineering of Xi'an University of Electronic Science and Technology of China in Xi'an, Shaanxi Province. Including co-authorship, I have published 10+ academic papers with 
+
+I earned my doctoral degree from the Science Island Graduate School at the University of Science and Technology of China in Hefei, Anhui Province. My supervisor is researcher Wang Xiaojie. Graduated from the School of Mechanical and Electrical Engineering of Xi'an University of Electronic Science and Technology of China in Xi'an, Shaanxi Province. Including co-authorship, I have published 10+ academic papers with 
  <a href='https://scholar.google.com.hk/citations?user=IBlC5j4AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 My research interest includes: 
@@ -56,7 +57,9 @@ My research interest includes:
 - 2024.05, Chen Haofeng participated in the 2024 IEEE International Conference on Robotics and Automation and gave an online oral report.
 - 2024.05.24, I passed my PhD defense🎉.
 - 2024.06.11, I attended the 2024 postgraduate commencement ceremony and received the Outstanding Graduate award from Anhui Province. [[Report1]](http://www.iim.cas.cn/xwzx_2021/jqyw/202406/t20240612_789131.html)
+- 2024.06.27, I attended the 24th International Conference on Biomedical Applications of Electrical Impedance Tomography (EIT 2024).
 
+  
 # 📝 Publications 
 
 ### English 
