@@ -84,6 +84,17 @@ My research interest includes:
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE ICRA 2024</div><img src='images/MMCNN.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	H. Chen, X. Yang, G. Ma, Y. Wang, and X. Wang, "Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN," in 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024: IEEE, pp. 3311-3317.   
+[[HTML]](https://ieeexplore.ieee.org/abstract/document/10610215)
+<--
+[[Preview]](https://github.com/Irobot-chf/Irobot-chf.github.io/blob/main/pdf/2023-A%20Skin-Like%20Hydrogel%20for%20Distributed%20Forc.pdf) [[PDF]](/pdf/2023-A%20Skin-Like%20Hydrogel%20for%20Distributed%20Forc.pdf)
+-->
+</div>
+</div>
+
 -	H. Chen, Ma G, Wang P, et al. A Bio-Impedance Analysis Method Based on Human Hand Anatomy for Hand Gesture Recognition [J]. IEEE Transactions on Instrumentation and Measurement, 2021, 70: 1-10.
 -	H. Chen, Yang X, Wang P, et al. A Large-Area Flexible Tactile Sensor for Multi-Touch and Force Detection Using Electrical Impedance Tomography [J]. IEEE Sensors Journal, 2022, 22(7): 7119-7129.
 -	H. Chen, Yang X, Geng J, et al. A Skin-Like Hydrogel for Distributed Force Sensing Using an Electrical Impedance Tomography-Based Pseudo-Array Method [J]. ACS Applied Electronic Materials, 2023, 5(3): 1451-1460.
