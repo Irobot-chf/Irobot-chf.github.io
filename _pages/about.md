@@ -58,6 +58,7 @@ My research interest includes:
 - 2024.05.24, I passed my PhD defense🎉.
 - 2024.06.11, I attended the 2024 postgraduate commencement ceremony and received the Outstanding Graduate award from Anhui Province. [[Report1]](http://www.iim.cas.cn/xwzx_2021/jqyw/202406/t20240612_789131.html)
 - 2024.06.27, I attended the 24th International Conference on Biomedical Applications of Electrical Impedance Tomography (EIT 2024).
+- 2024.07.31, I arrived in Prague safely✈️.
 
   
 # 📝 Publications 
@@ -89,9 +90,7 @@ My research interest includes:
 
 -	H. Chen, X. Yang, G. Ma, Y. Wang, and X. Wang, "Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN," in 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024: IEEE, pp. 3311-3317.   
 [[HTML]](https://ieeexplore.ieee.org/abstract/document/10610215)
-<--
-[[Preview]](https://github.com/Irobot-chf/Irobot-chf.github.io/blob/main/pdf/2023-A%20Skin-Like%20Hydrogel%20for%20Distributed%20Forc.pdf) [[PDF]](/pdf/2023-A%20Skin-Like%20Hydrogel%20for%20Distributed%20Forc.pdf)
--->
+
 </div>
 </div>
 
