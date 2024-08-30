@@ -17,20 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
-I earned my doctoral degree from the Science Island Graduate School at the University of Science and Technology of China in Hefei, Anhui Province. My supervisor is researcher Wang Xiaojie. Graduated from the School of Mechanical and Electrical Engineering of Xi'an University of Electronic Science and Technology of China in Xi'an, Shaanxi Province. Including co-authorship, I have published 10+ academic papers with 
+I am now working at Czech Technical University in Prague as a postdoc.
+I earned my doctoral degree from the Science Island Graduate School at the University of Science and Technology of China in Hefei, Anhui Province. My supervisor is researcher Wang Xiaojie. I graduated from the School of Mechanical and Electrical Engineering of Xi'an University of Electronic Science and Technology of China in Xi'an, Shaanxi Province. Including co-authorship, I have published 10+ academic papers with 
  <a href='https://scholar.google.com.hk/citations?user=IBlC5j4AAAAJ&hl=zh-CN'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 My research interest includes: 
+- Large-area Tactile perception
 - Biomedical image and signal processing
 - Electrical impedance tomography (EIT)
-- Tactile perception
 - Human-robot interaction
 - Deep/machine learning
 - Multi-modal sensor fusion
 - Inverse problem
-
-
 
 
 # 🎓 Educations 
