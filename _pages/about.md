@@ -47,16 +47,17 @@ My research interest includes:
 - 2023年10月27日—10月29日，王晓杰、陈皓枫参加2023第十六届中国智能机器人大会(CCIR)。[[报道]](http://www.bihfcas.net/xw/23.10.27.html)[[相关报道1]](http://www.iamt.cas.cn/zxzx/gzdt/202311/t20231102_762488.html)[[相关报道2]](http://www.iim.cas.cn/xwzx_2021/dtjx/202311/t20231102_762496.html)
 - 2023年，陈皓枫参加2024年IEEE机器人与自动化国际会议，并做了线上口头报告。
 -->
- 
-- 2019.12, Haofeng Chen and Peng Wang participated in the "USTC Campus Algorithm Invitational Competition" and won the second prize. [[Report]](http://www.bihfcas.net/xw/19.12.22.html)
-- 2021.07, Haofeng Chen, Gang Ma, and Xuanxuan Yang won the "Internet +" Innovation and Entrepreneurship Competition Anhui Province Gold Medal, the Second Prize of the Science Island Graduate Innovation and Entrepreneurship Competition and other honors. [[Report]](http://www.bihfcas.net/xw/21.07.13.html)
-- 2022.12, Haofeng Chen and Xuanxuan Yang participated in the 2022 IEEE ROBIO International Conference. [[Report]](http://www.bihfcas.net/xw/22.12.04.html)
-- 2023.10, Wang Xiaojie and Chen Haofeng participated in the 2023 16th China Conference on Intelligent Robots (CCIR). [[Reports]](http://www.bihfcas.net/xw/23.10.27.html)[[Related reports 1]](http://www.iamt.cas.cn/zxzx/gzdt/202311/t20231102_762488.html)[[Related reports 2]](http://www.iim.cas.cn/xwzx_2021/dtjx/202311/t20231102_762496.html)
-- 2024.05, Chen Haofeng participated in the 2024 IEEE International Conference on Robotics and Automation and gave an online oral report.
-- 2024.05.24, I passed my PhD defense🎉.
-- 2024.06.11, I attended the 2024 postgraduate commencement ceremony and received the Outstanding Graduate award from Anhui Province. [[Report1]](http://www.iim.cas.cn/xwzx_2021/jqyw/202406/t20240612_789131.html)
-- 2024.06.27, I attended the 24th International Conference on Biomedical Applications of Electrical Impedance Tomography (EIT 2024).
+
+- 2025.10.19–10.26, I attended the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
 - 2024.07.31, I arrived in Prague safely✈️.
+- 2024.06.27, I attended the 24th International Conference on Biomedical Applications of Electrical Impedance Tomography (EIT 2024).
+- 2024.06.11, I attended the 2024 postgraduate commencement ceremony and received the Outstanding Graduate award from Anhui Province. [[Report1]](http://www.iim.cas.cn/xwzx_2021/jqyw/202406/t20240612_789131.html)
+- 2024.05.24, I passed my PhD defense🎉.
+- 2024.05, Chen Haofeng participated in the 2024 IEEE International Conference on Robotics and Automation and gave an online oral report.
+- 2023.10, Wang Xiaojie and Chen Haofeng participated in the 2023 16th China Conference on Intelligent Robots (CCIR). [[Reports]](http://www.bihfcas.net/xw/23.10.27.html)[[Related reports 1]](http://www.iamt.cas.cn/zxzx/gzdt/202311/t20231102_762488.html)[[Related reports 2]](http://www.iim.cas.cn/xwzx_2021/dtjx/202311/t20231102_762496.html)
+- 2022.12, Haofeng Chen and Xuanxuan Yang participated in the 2022 IEEE ROBIO International Conference. [[Report]](http://www.bihfcas.net/xw/22.12.04.html)
+- 2021.07, Haofeng Chen, Gang Ma, and Xuanxuan Yang won the "Internet +" Innovation and Entrepreneurship Competition Anhui Province Gold Medal, the Second Prize of the Science Island Graduate Innovation and Entrepreneurship Competition and other honors. [[Report]](http://www.bihfcas.net/xw/21.07.13.html)
+- 2019.12, Haofeng Chen and Peng Wang participated in the "USTC Campus Algorithm Invitational Competition" and won the second prize. [[Report]](http://www.bihfcas.net/xw/19.12.22.html)
 
   
 # 📝 Publications 
@@ -74,15 +75,6 @@ My research interest includes:
 </div>
 -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Appl. Electron. Mater. 2023</div><img src='images/TOC.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	H. Chen, X. Yang, J. Geng, G. Ma, and X. Wang, "A Skin-Like Hydrogel for Distributed Force Sensing Using an Electrical Impedance Tomography-Based Pseudo-Array Method," ACS Applied Electronic Materials, vol. 5, no. 3, pp. 1451-1460, 2023/03/28 2023. (JCR:Q2; IF:4.7)  
-[[HTML]](https://pubs.acs.org/doi/10.1021/acsaelm.2c01394) [[Preview]](https://github.com/Irobot-chf/Irobot-chf.github.io/blob/main/pdf/2023-A%20Skin-Like%20Hydrogel%20for%20Distributed%20Forc.pdf) [[PDF]](/pdf/2023-A%20Skin-Like%20Hydrogel%20for%20Distributed%20Forc.pdf)
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> IEEE ICRA 2024</div><img src='images/MMCNN.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -92,15 +84,28 @@ My research interest includes:
 </div>
 </div>
 
--	H. Chen, Ma G, Wang P, et al. A Bio-Impedance Analysis Method Based on Human Hand Anatomy for Hand Gesture Recognition [J]. IEEE Transactions on Instrumentation and Measurement, 2021, 70: 1-10.
--	H. Chen, Yang X, Wang P, et al. A Large-Area Flexible Tactile Sensor for Multi-Touch and Force Detection Using Electrical Impedance Tomography [J]. IEEE Sensors Journal, 2022, 22(7): 7119-7129.
--	H. Chen, Yang X, Geng J, et al. A Skin-Like Hydrogel for Distributed Force Sensing Using an Electrical Impedance Tomography-Based Pseudo-Array Method [J]. ACS Applied Electronic Materials, 2023, 5(3): 1451-1460.
--	H. Chen, Yang X, Ma G, et al. Correcting Non-Uniform Sensitivity in EIT Tactile Sensing via Jacobian Vector Approximation [J]. IEEE Robotics and Automation Letters, 2024, 9(3): 2335 - 2342.
--	Ma G, H. Chen, Wang P, et al. Multi-Frame Constrained Block Sparse Bayesian Learning for Flexible Tactile Sensing Using Electrical Impedance Tomography [J]. IEEE Transactions on Computational Imaging, 2022, 8: 438-448.
--	Ma G, H. Chen, Wang P, et al. A two-electrode frequency-scan system for gesture recognition [J]. Mechatronics, 2023, 94: 103039.
--	Wang P, H. Chen, Ma G, et al. Deep learning scheme PSPNet for electrical impedance tomography[C]// Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2021. SPIE,2021: 223-230.
--	H. Chen, Yang X, Geng J, et al. A convolutional neural network based electrical impedance tomography method for skin-like hydrogel sensing[C]// 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 5-9 Dec. 2022.2022: 178-183.
--	H. Chen, Yang X, Ma G, et al. Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN [C]//2024 IEEE International Conference on Robotics and Automation (ICRA), 2023. （已接收）
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACS Appl. Electron. Mater. 2023</div><img src='images/TOC.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	H. Chen, X. Yang, J. Geng, G. Ma, and X. Wang, "A Skin-Like Hydrogel for Distributed Force Sensing Using an Electrical Impedance Tomography-Based Pseudo-Array Method," ACS Applied Electronic Materials, vol. 5, no. 3, pp. 1451-1460, 2023/03/28 2023. (JCR:Q2; IF:4.7)  
+[[HTML]](https://pubs.acs.org/doi/10.1021/acsaelm.2c01394) [[Preview]](https://github.com/Irobot-chf/Irobot-chf.github.io/blob/main/pdf/2023-A%20Skin-Like%20Hydrogel%20for%20Distributed%20Forc.pdf) [[PDF]](/pdf/2023-A%20Skin-Like%20Hydrogel%20for%20Distributed%20Forc.pdf)
+
+</div>
+</div>
+
+
+
+
+- H. Chen, Yang X, Ma G, et al. Correcting Non-Uniform Sensitivity in EIT Tactile Sensing via Jacobian Vector Approximation [J]. IEEE Robotics and Automation Letters, 2024, 9(3): 2335 - 2342.
+- H. Chen, X. Yang, G. Ma et al., “Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN,” in 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024, pp. 3311-3317.
+- H. Chen, Yang X, Geng J, et al. A Skin-Like Hydrogel for Distributed Force Sensing Using an Electrical Impedance Tomography-Based Pseudo-Array Method [J]. ACS Applied Electronic Materials, 2023, 5(3): 1451-1460.
+- Ma G, H. Chen, Wang P, et al. A two-electrode frequency-scan system for gesture recognition [J]. Mechatronics, 2023, 94: 103039.
+- H. Chen, Yang X, Geng J, et al. A convolutional neural network-based electrical impedance tomography method for skin-like hydrogel sensing [C]// 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 5-9 Dec. 2022. 2022: 178-183.
+- Ma G, H. Chen, Wang P, et al. Multi-Frame Constrained Block Sparse Bayesian Learning for Flexible Tactile Sensing Using Electrical Impedance Tomography [J]. IEEE Transactions on Computational Imaging, 2022, 8: 438-448.
+- H. Chen, Yang X, Wang P, et al. A Large-Area Flexible Tactile Sensor for Multi-Touch and Force Detection Using Electrical Impedance Tomography [J]. IEEE Sensors Journal, 2022, 22(7): 7119-7129.
+- Wang P, H. Chen, Ma G, et al. Deep learning scheme PSPNet for electrical impedance tomography [C]// Sensors and Smart Structures Technologies for Civil, Mechanical, and Aerospace Systems 2021. SPIE, 2021: 223-230.
+- H. Chen, Ma G, Wang P, et al. A Bio-Impedance Analysis Method Based on Human Hand Anatomy for Hand Gesture Recognition [J]. IEEE Transactions on Instrumentation and Measurement, 2021, 70: 1-10.
+
 
 
 <!--  Markdown 注释 -->
@@ -128,14 +133,14 @@ My research interest includes:
 
 
 # 🏅 Honors and Awards
-- 2019, Awarded the Second Prize  in the Big Data of Smart City Innovative Applications University Of Science and
-technology of China Campus Algorithm Invitation.
-- 2020, Awarded the Second Prize in the 7th "catch" National College Student Internet Software Design Competition.
-- 2021, Awarded the Second Prize  in the First Graduate Innovation and Entrepreneurship Competition of the Science Island Graduate Double Innovation and Entrepreneurship Center.
+- 2023, Awarded the Excellent Paper Award in the 16th China Intelligent Robot Conference.
+- 2023, Awarded Yuequn Excellence Scholarship for exemplary performance in moral and academic performances.
 - 2021, Awarded the Gold Award in the Seventh "Internet+" College Students Innovation and Entrepreneurship Competition in Anhui Province.
-- 2023, Awarded the Excellent Paper Award in the 16th China intelligent Robot Conference.
+- 2021, Awarded the Second Prize in the First Graduate Innovation and Entrepreneurship Competition of the Science Island Graduate Double Innovation and Entrepreneurship Center.
+- 2020, Awarded the Second Prize in the 7th "Catch" National College Student Internet Software Design Competition.
+- 2019, Awarded the Second Prize in the Big Data of Smart City Innovative Applications University of Science and Technology of China Campus Algorithm Invitational Competition.
 - 2019 to 2023, USTC The First Prize Scholarship.
-- 2023, Awarded Yuequn Excellence Scholarship  for exemplary performance in  moral and academic performances.
+
  
 
 <!--
@@ -145,9 +150,12 @@ technology of China Campus Algorithm Invitation.
 -->
 
 # 💬 Conferences
-- _2022.12_, 2022 IEEE International Conference on Robotics and Biomimetics, Xishuangbanna, Yunnan, oral presentation Reference
-- _2023.10_, 16th China Conference on Intelligent Robots, Shanghai, oral presentation Reference [参考](http://www.bihfcas.net/xw/23.10.27.html)
+- _2025.10_, 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China.
 - _2024.05_, 2024 IEEE International Conference on Robotics and Automation, Yokohama, Japan Presentation [Screenshot]()
+- _2023.10_, 16th China Conference on Intelligent Robots, Shanghai, oral presentation Reference [参考](http://www.bihfcas.net/xw/23.10.27.html)
+- _2022.12_, 2022 IEEE International Conference on Robotics and Biomimetics, Xishuangbanna, Yunnan, oral presentation Reference
+
+
 
 <!--
 - *2021.10*, National Seminar on Electromagnetic Nondestructive Testing Technology and the 14th Plenary Session of the 11th Session of the Electromagnetic Professional Technology Conference of China, Xian China, Oral. [参考](http://www.bihfcas.net/xw/22.12.04.html)
