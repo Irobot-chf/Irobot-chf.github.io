@@ -48,6 +48,8 @@ My research interest includes:
 - 2023年，陈皓枫参加2024年IEEE机器人与自动化国际会议，并做了线上口头报告。
 -->
 
+
+- 2026.01.11-03.14, I am currently visiting [Eindhoven University of Technology](https://www.tue.nl/en/), collaborating with Hyosang Lee on Electrical Impedance Tomography (EIT)–based tactile sensing.
 - 2025.10.19–10.26, I attended the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
 - 2024.07.31, I arrived in Prague safely✈️.
 - 2024.06.27, I attended the 24th International Conference on Biomedical Applications of Electrical Impedance Tomography (EIT 2024).
@@ -93,9 +95,9 @@ My research interest includes:
 </div>
 </div>
 
-
-
-
+- G. Ma, H. Chen, S. Dong, X. Wang, and S. Zhang, "PDCISTA-Net: Model-Driven Deep Learning Reconstruction Network for Electrical Impedance Tomography-Based Tactile Sensing," IEEE Transactions on Industrial Informatics, vol. 21, no. 1, pp. 633 - 642, 2024.
+- Ma, G., Chen, H., Dong, S., Wang, X., & Zhang, S. (2024). PDCISTA-net: Model-driven deep learning reconstruction network for electrical impedance tomography-based tactile sensing. IEEE Transactions on Industrial Informatics.
+- X. Yang, Y. Zhang, H. Chen, G. Ma, and X. Wang, “A Physics-Embedded Dual-Learning Imaging Framework for Electrical Impedance Tomography,” Neural Networks, vol. 197, no. 108464, p. 108464, 2025.
 - H. Chen, Yang X, Ma G, et al. Correcting Non-Uniform Sensitivity in EIT Tactile Sensing via Jacobian Vector Approximation [J]. IEEE Robotics and Automation Letters, 2024, 9(3): 2335 - 2342.
 - H. Chen, X. Yang, G. Ma et al., “Enhancing Tactile Sensing in Robotics: Dual-Modal Force and Shape Perception with EIT-based Sensors and MM-CNN,” in 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024, pp. 3311-3317.
 - H. Chen, Yang X, Geng J, et al. A Skin-Like Hydrogel for Distributed Force Sensing Using an Electrical Impedance Tomography-Based Pseudo-Array Method [J]. ACS Applied Electronic Materials, 2023, 5(3): 1451-1460.
@@ -164,6 +166,10 @@ My research interest includes:
 -->
 
 # 🏭 Internships
+
+- Visiting Researcher, Eindhoven，2026.01.11-03.14
+
+Visiting researcher at Eindhoven University of Technology, working with Hyosang Lee on EIT-based tactile sensors, including sensing material development and tactile modeling for large-area flexible systems.
 
 <!--
 - *2018.05 - 2020.02*, Chongqing Changjiang Bearing Co., Ltd., Chongqing China.
