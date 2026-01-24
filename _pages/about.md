@@ -48,7 +48,7 @@ My research interest includes:
 - 2023年，陈皓枫参加2024年IEEE机器人与自动化国际会议，并做了线上口头报告。
 -->
 
-
+- 2026.01.22, I visited the laboratory of Prof. Robert Babuška at Delft University of Technology (TU Delft), focusing on learning-based control and robotics research. 
 - 2026.01.11-03.14, I am currently visiting [Eindhoven University of Technology](https://www.tue.nl/en/), collaborating with Hyosang Lee on Electrical Impedance Tomography (EIT)–based tactile sensing.
 - 2025.10.19–10.26, I attended the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
 - 2024.07.31, I arrived in Prague safely✈️.
