@@ -47,7 +47,7 @@ My research interest includes:
 - 2023年10月27日—10月29日，王晓杰、陈皓枫参加2023第十六届中国智能机器人大会(CCIR)。[[报道]](http://www.bihfcas.net/xw/23.10.27.html)[[相关报道1]](http://www.iamt.cas.cn/zxzx/gzdt/202311/t20231102_762488.html)[[相关报道2]](http://www.iim.cas.cn/xwzx_2021/dtjx/202311/t20231102_762496.html)
 - 2023年，陈皓枫参加2024年IEEE机器人与自动化国际会议，并做了线上口头报告。
 -->
-
+- 2026.04.07, Invited as a **Speaker** at the RoboSoft 2026 Workshop — "Electrical Impedance Tomography-Based Tactile Sensing: Bridging Soft Robotics and Artificial Touch", Kanazawa, Japan. [[Workshop]](https://sites.google.com/view/eit-robosoft-2026/home)
 - 2026.01.22, I visited the laboratory of Prof. Robert Babuška at Delft University of Technology (TU Delft), focusing on learning-based control and robotics research. 
 - 2026.01.11-03.14, I am currently visiting [Eindhoven University of Technology](https://www.tue.nl/en/), collaborating with Hyosang Lee on Electrical Impedance Tomography (EIT)–based tactile sensing.
 - 2025.10.19–10.26, I attended the 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025).
@@ -152,6 +152,7 @@ My research interest includes:
 -->
 
 # 💬 Conferences
+- _2026.04_, RoboSoft 2026 Workshop — "Electrical Impedance Tomography-Based Tactile Sensing: Bridging Soft Robotics and Artificial Touch", Kanazawa, Japan, **Invited Speaker**. [[Workshop]](https://sites.google.com/view/eit-robosoft-2026/home)
 - _2025.10_, 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025), Hangzhou, China.
 - _2024.05_, 2024 IEEE International Conference on Robotics and Automation, Yokohama, Japan Presentation [Screenshot]()
 - _2023.10_, 16th China Conference on Intelligent Robots, Shanghai, oral presentation Reference [参考](http://www.bihfcas.net/xw/23.10.27.html)
